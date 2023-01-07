@@ -4,24 +4,25 @@
 }
 /* banner styles */
 .banner{
+    display: flex;
+    align-items: center;
+    justify-content: right;
     width: 100%;
-    height: 950px;
+    height: 100vh;
     background-image: url('../images/banner/banner3.png');
     text-align: right;
     background-size: cover;
 }
 .banner-details{
-    width: 800px;
-    padding-left: 770px;
-    padding-top: 300px;
+    padding-right: 200px;
     color: #FFFFFF;
-    font-size: 35px;
+    font-size: 45px;
 }
 .banner-description{
     font-size: 16px;
     width: 500px;
     padding-top: 20px;
-    padding-left: 300px;
+    /* padding-left: 300px; */
 }
 
 /* failures of previous section styles */
@@ -89,7 +90,7 @@
     height: 300px;
     margin: 140px 230px;
     align-items: center;
-    background-image: linear-gradient(#005FAC, rgba(0, 95, 172, 0)), url('../images/watch.png') ;
+    background-image: linear-gradient(90deg, #005FAC, rgba(0, 95, 172, 0)), url('../images/watch.png') ;
     background-size: cover;
     border-radius: 10px;
 }
