@@ -52,12 +52,8 @@
     padding-top: 16px;
     color: #444343;
 }
-.some-advice ul{
-    padding-left: -50px;
-}
 .some-advice li{
     list-style:none;
-    padding-left: -100px;
 }
 .check-primary{
     color: #16D887;
