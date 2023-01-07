@@ -139,7 +139,7 @@ footer{
     background-color: #151414;
     border: 1px solid white;
 }
-.contact img{
+.contact a{
     text-decoration: none;
     margin-right: 18px;
 }
