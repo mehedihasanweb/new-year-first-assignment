@@ -89,7 +89,7 @@
     height: 300px;
     margin: 140px 230px;
     align-items: center;
-    background-image: linear-gradient(90deg, #005FAC, rgba(0, 95, 172, 0)), url('../images/watch.png') ;
+    background-image: linear-gradient(#005FAC, rgba(0, 95, 172, 0)), url('../images/watch.png') ;
     background-size: cover;
     border-radius: 10px;
 }
